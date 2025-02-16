@@ -11,7 +11,8 @@
     "hello-rust": {
       "path": "hello-rust",
       "release-type": "rust",
-      "prerelease": "Atlas"
+      "versioning-strategy": "prerelease",
+      "prerelease": "atlas"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
