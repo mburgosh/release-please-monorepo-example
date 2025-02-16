@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - atlas
 
 permissions:
   contents: write
@@ -29,7 +30,6 @@ jobs:
         run: |
           echo "Release outputs:"
           echo "${{ toJson(steps.release.outputs) }}"
-
 
   release-hello-react:
     if: ${{needs.release-please.outputs.hello-react--release_created}}
