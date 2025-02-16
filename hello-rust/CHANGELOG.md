@@ -49,8 +49,4 @@
 ### Features
 
 * **rust:** add example code ([f8d6173](https://github.com/amarjanica/release-please-monorepo-example/commit/f8d61736e63e4c1baf1d881c50556fa0ba6829d0))
-* enable prerelease again more
-* * more
-* more
-* more
-* more
+* trigger
