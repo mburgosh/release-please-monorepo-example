@@ -5,6 +5,7 @@
 
 ### Features
 
+* new version name
 * enable prerelease ([f61e4ff](https://github.com/mburgosh/release-please-monorepo-example/commit/f61e4ff9cc82a7685207c29202a2a74c414d4212))
 * enable prerelease ([00efa15](https://github.com/mburgosh/release-please-monorepo-example/commit/00efa15187ad981e24c0592292e5a3133383d381))
 * enable prerelease ([4f8e4af](https://github.com/mburgosh/release-please-monorepo-example/commit/4f8e4af81fae4a4c43d70c3238ea7a99f717f7a2))
