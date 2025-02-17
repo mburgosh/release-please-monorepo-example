@@ -1,6 +1,6 @@
 [package]
 name = "hello_rust"
-version = "0.7.0-atlas01"
+version = "0.8.0-atlas"
 edition = "2021"
 
 [dependencies]
